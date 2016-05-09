@@ -1,0 +1,11 @@
+base
+slidify
+devtools
+ggplot2
+rCharts
+knitr
+xtable
+htmlTable
+reshape
+DiagrammeR
+htmlwidgets
